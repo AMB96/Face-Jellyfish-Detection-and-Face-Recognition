@@ -1,0 +1,3 @@
+/home/amb/code/graphics/opencv/fossee/CMakeFiles/rebuild_cache.dir
+/home/amb/code/graphics/opencv/fossee/CMakeFiles/edit_cache.dir
+/home/amb/code/graphics/opencv/fossee/CMakeFiles/app.dir
